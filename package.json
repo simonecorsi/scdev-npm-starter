@@ -40,7 +40,7 @@
     "@istanbuljs/esm-loader-hook": "^0.1.2",
     "@types/tap": "^15.0.5",
     "cz-conventional-changelog": "^3.1.0",
-    "eslint": "^8.4.1",
+    "eslint": "^8.5.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^4.0.0",
