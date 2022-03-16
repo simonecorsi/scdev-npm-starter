@@ -52,7 +52,7 @@
     "lint-staged": "^12.3.6",
     "markdown-toc": "^1.2.0",
     "nyc": "^15.1.0",
-    "prettier": "^2.0.5",
+    "prettier": "^2.6.0",
     "semantic-release": "^19.0.2",
     "tap": "^16.0.0"
   }
