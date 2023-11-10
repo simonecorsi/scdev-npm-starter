@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^17.8.0",
-    "@commitlint/config-conventional": "^17.8.0",
+    "@commitlint/config-conventional": "^18.4.0",
     "@saithodev/semantic-release-backmerge": "^3.2.1",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^11.1.0",
